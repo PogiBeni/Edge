@@ -469,6 +469,26 @@
   "István Kertész",
   "Béla Tarr",
   "Károly Takács",
-  "Lajos Kossuth"
-
+  "Lajos Kossuth",
+"Adolf Hitler", "Joseph Stalin", "Mao Zedong", "Benito Mussolini", "Francisco Franco",
+    "Fidel Castro", "Augusto Pinochet", "Kim Jong-il", "Saddam Hussein", "Pol Pot",
+    "Idi Amin", "Muammar Gaddafi", "Robert Mugabe", "Mobutu Sese Seko", "Nicolae Ceaușescu",
+    "Hồ Chí Minh", "Ayatollah Khomeini", "Vladimir Lenin", "Enver Hoxha", "Park Chung-hee",
+    "Slobodan Milošević", "Ferdinand Marcos", "Manuel Noriega", "Jean-Claude Duvalier", "Chiang Kai-shek",
+    "Hun Sen", "King Leopold II", "Hideki Tojo", "Ngo Dinh Diem", "António de Oliveira Salazar",
+    "Anastasio Somoza", "Ruhollah Khomeini", "Hafez al-Assad", "Bashar al-Assad", "Gamal Abdel Nasser",
+    "Ne Win", "Josip Broz Tito", "Emperor Hirohito", "Enver Pasha", "Isaias Afwerki",
+    "Teodoro Obiang Nguema Mbasogo", "Isabel Perón", "Hissène Habré", "Abdul Rahman Suwar Al-Dahab",
+    "Ion Antonescu",
+"Penicillin", "Gravity", "Electricity", "DNA Double Helix", "Theory of Relativity",
+    "Quantum Mechanics", "Periodic Table", "Higgs Boson", "Cloning", "Internet",
+    "Vaccination", "Steam Engine", "Telegraph", "Radiation", "CRISPR",
+    "Nuclear Fusion", "Genome Sequencing", "Black Holes", "Antibiotics", "Atomic Theory",
+ "Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo", "Claude Monet",
+    "Georgia O'Keeffe", "Frida Kahlo", "Salvador Dalí", "Rembrandt", "Andy Warhol",
+    "Jackson Pollock", "Edvard Munch", "Raphael", "Gustav Klimt", "Henri Matisse",
+    "Auguste Rodin", "Banksy", "Diego Rivera", "Grant Wood", "Hieronymus Bosch",
+"Python", "JavaScript", "Java", "C++", "C#", "Ruby", "Swift", "Go", "Rust", "PHP",
+    "TypeScript", "Kotlin", "Perl", "Haskell", "Objective-C", "Shell Scripting",
+    "SQL", "HTML", "CSS", "Scala", "Lua"
 ]
